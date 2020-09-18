@@ -4,3 +4,7 @@ Reference: https://www.youtube.com/watch?v=hQAHSlTtcmY&t=61s
  Node Packages Required:
  uuid => npm i uuid
  
+
+ Before running 
+ Install all dependencies:
+ npm i
