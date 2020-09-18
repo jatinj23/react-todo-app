@@ -1,0 +1,6 @@
+This is an simple ToDo List app made in ReacJS
+Reference: https://www.youtube.com/watch?v=hQAHSlTtcmY&t=61s
+
+ Node Packages Required:
+ uuid => npm i uuid
+ 
